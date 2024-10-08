@@ -1,0 +1,8 @@
+.tableRow{
+    background-color: #F5EFFF;
+}
+.tableRow:hover{
+    background-color: #CDC1FF;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
